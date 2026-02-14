@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "pricing": "Pricing",
+    "login": "Login",
+    "signup": "Sign Up",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "logout": "Logout"
+  },
+  "footer": {
+    "description": "Your trusted retail marketplace for all your needs. Quality products, reliable sellers, and exceptional service.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "categories": "Categories",
+    "pricing": "Pricing",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Hiretail Marketplace",
+      "subtitle": "Discover quality products from trusted sellers",
+      "shopNow": "Shop Now",
+      "becomeSeller": "Become a Seller"
+    },
+    "features": {
+      "shipping": {
+        "title": "Free Shipping",
+        "description": "Free shipping on orders over $50"
+      },
+      "secure": {
+        "title": "Secure Payments",
+        "description": "100% secure payment processing"
+      },
+      "products": {
+        "title": "Quality Products",
+        "description": "Thousands of verified products"
+      }
+    },
+    "categories": {
+      "title": "Shop by Category"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "viewAll": "View All Products"
+    },
+    "cta": {
+      "title": "Ready to Start Selling?",
+      "description": "Join thousands of sellers and grow your business with Hiretail",
+      "button": "View Pricing Plans"
+    }
+  },
+  "categories": {
+    "title": "All Categories",
+    "all": "All Products",
+    "noProducts": "No products found"
+  },
+  "product": {
+    "back": "Back to Categories",
+    "addToCart": "Add to Cart",
+    "details": "Product Details",
+    "freeShipping": "Free shipping on this item",
+    "returns": "30-day return policy",
+    "warranty": "1-year warranty included",
+    "related": "Related Products"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Select the perfect plan for your business needs",
+    "popular": "Most Popular",
+    "month": "month",
+    "subscribe": "Subscribe Now",
+    "processing": "Processing...",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "Can I change my plan later?",
+      "a1": "Yes, you can upgrade or downgrade your plan at any time from your dashboard.",
+      "q2": "What payment methods do you accept?",
+      "a2": "We accept all major credit cards through Stripe's secure payment processing.",
+      "q3": "Is there a free trial?",
+      "a3": "Currently, we don't offer a free trial, but you can cancel your subscription at any time."
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "loginSubtitle": "Welcome back! Please login to your account.",
+    "signupSubtitle": "Create your account to get started.",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "loggingIn": "Logging in...",
+    "creatingAccount": "Creating account...",
+    "invalidCredentials": "Invalid email or password",
+    "error": "An error occurred. Please try again.",
+    "passwordMismatch": "Passwords do not match",
+    "passwordTooShort": "Password must be at least 8 characters",
+    "signupFailed": "Failed to create account",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "testAccount": "Test Admin Account:",
+    "or": "OR"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "subtitle": "Manage your account and subscriptions",
+    "subscriptionSuccess": "Subscription activated successfully!",
+    "profile": "Profile",
+    "subscription": "Subscription",
+    "products": "Products",
+    "settings": "Settings",
+    "manage": "Manage account settings",
+    "subscriptionDetails": "Subscription Details",
+    "plan": "Plan",
+    "status": "Status",
+    "startDate": "Start Date",
+    "none": "None",
+    "noSubscription": "You don't have an active subscription",
+    "viewPlans": "View Pricing Plans",
+    "sellerTools": "Seller Tools",
+    "addProduct": "Add Product",
+    "addProductDesc": "List a new product for sale",
+    "manageProducts": "Manage Products",
+    "manageProductsDesc": "Edit or remove your listings",
+    "analytics": "Analytics",
+    "analyticsDesc": "View your sales metrics"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "subtitle": "Manage users, subscriptions, and platform analytics",
+    "totalUsers": "Total Users",
+    "totalProducts": "Total Products",
+    "activeSubscriptions": "Active Subscriptions",
+    "totalRevenue": "Total Revenue",
+    "recentUsers": "Recent Users",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "joinedDate": "Joined Date",
+    "recentSubscriptions": "Recent Subscriptions",
+    "user": "User",
+    "plan": "Plan",
+    "status": "Status",
+    "date": "Date",
+    "sessionId": "Session ID"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "categories": "Categorías",
+    "pricing": "Precios",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "dashboard": "Panel",
+    "admin": "Admin",
+    "logout": "Cerrar Sesión"
+  },
+  "footer": {
+    "description": "Tu mercado minorista confiable para todas tus necesidades. Productos de calidad, vendedores confiables y servicio excepcional.",
+    "quickLinks": "Enlaces Rápidos",
+    "home": "Inicio",
+    "categories": "Categorías",
+    "pricing": "Precios",
+    "support": "Soporte",
+    "helpCenter": "Centro de Ayuda",
+    "contactUs": "Contáctanos",
+    "faq": "Preguntas Frecuentes",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies",
+    "rights": "Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "title": "Bienvenido al Mercado Hiretail",
+      "subtitle": "Descubre productos de calidad de vendedores confiables",
+      "shopNow": "Comprar Ahora",
+      "becomeSeller": "Conviértete en Vendedor"
+    },
+    "features": {
+      "shipping": {
+        "title": "Envío Gratis",
+        "description": "Envío gratis en pedidos superiores a $50"
+      },
+      "secure": {
+        "title": "Pagos Seguros",
+        "description": "Procesamiento de pagos 100% seguro"
+      },
+      "products": {
+        "title": "Productos de Calidad",
+        "description": "Miles de productos verificados"
+      }
+    },
+    "categories": {
+      "title": "Comprar por Categoría"
+    },
+    "featured": {
+      "title": "Productos Destacados",
+      "viewAll": "Ver Todos los Productos"
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar a Vender?",
+      "description": "Únete a miles de vendedores y haz crecer tu negocio con Hiretail",
+      "button": "Ver Planes de Precios"
+    }
+  },
+  "categories": {
+    "title": "Todas las Categorías",
+    "all": "Todos los Productos",
+    "noProducts": "No se encontraron productos"
+  },
+  "product": {
+    "back": "Volver a Categorías",
+    "addToCart": "Añadir al Carrito",
+    "details": "Detalles del Producto",
+    "freeShipping": "Envío gratis en este artículo",
+    "returns": "Política de devolución de 30 días",
+    "warranty": "Garantía de 1 año incluida",
+    "related": "Productos Relacionados"
+  },
+  "pricing": {
+    "title": "Elige Tu Plan",
+    "subtitle": "Selecciona el plan perfecto para las necesidades de tu negocio",
+    "popular": "Más Popular",
+    "month": "mes",
+    "subscribe": "Suscribirse Ahora",
+    "processing": "Procesando...",
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "q1": "¿Puedo cambiar mi plan más tarde?",
+      "a1": "Sí, puedes actualizar o reducir tu plan en cualquier momento desde tu panel.",
+      "q2": "¿Qué métodos de pago aceptan?",
+      "a2": "Aceptamos todas las principales tarjetas de crédito a través del procesamiento seguro de pagos de Stripe.",
+      "q3": "¿Hay una prueba gratuita?",
+      "a3": "Actualmente no ofrecemos una prueba gratuita, pero puedes cancelar tu suscripción en cualquier momento."
+    }
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "loginSubtitle": "¡Bienvenido de nuevo! Por favor inicia sesión en tu cuenta.",
+    "signupSubtitle": "Crea tu cuenta para comenzar.",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "name": "Nombre Completo",
+    "loggingIn": "Iniciando sesión...",
+    "creatingAccount": "Creando cuenta...",
+    "invalidCredentials": "Correo electrónico o contraseña inválidos",
+    "error": "Ocurrió un error. Por favor intenta de nuevo.",
+    "passwordMismatch": "Las contraseñas no coinciden",
+    "passwordTooShort": "La contraseña debe tener al menos 8 caracteres",
+    "signupFailed": "Error al crear la cuenta",
+    "noAccount": "¿No tienes una cuenta?",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "testAccount": "Cuenta de Prueba Admin:",
+    "or": "O"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido",
+    "subtitle": "Gestiona tu cuenta y suscripciones",
+    "subscriptionSuccess": "¡Suscripción activada exitosamente!",
+    "profile": "Perfil",
+    "subscription": "Suscripción",
+    "products": "Productos",
+    "settings": "Configuración",
+    "manage": "Gestionar configuración de cuenta",
+    "subscriptionDetails": "Detalles de Suscripción",
+    "plan": "Plan",
+    "status": "Estado",
+    "startDate": "Fecha de Inicio",
+    "none": "Ninguno",
+    "noSubscription": "No tienes una suscripción activa",
+    "viewPlans": "Ver Planes de Precios",
+    "sellerTools": "Herramientas de Vendedor",
+    "addProduct": "Añadir Producto",
+    "addProductDesc": "Listar un nuevo producto para la venta",
+    "manageProducts": "Gestionar Productos",
+    "manageProductsDesc": "Editar o eliminar tus listados",
+    "analytics": "Analíticas",
+    "analyticsDesc": "Ver tus métricas de ventas"
+  },
+  "admin": {
+    "title": "Panel de Admin",
+    "subtitle": "Gestionar usuarios, suscripciones y análisis de plataforma",
+    "totalUsers": "Total de Usuarios",
+    "totalProducts": "Total de Productos",
+    "activeSubscriptions": "Suscripciones Activas",
+    "totalRevenue": "Ingresos Totales",
+    "recentUsers": "Usuarios Recientes",
+    "name": "Nombre",
+    "email": "Correo",
+    "role": "Rol",
+    "joinedDate": "Fecha de Registro",
+    "recentSubscriptions": "Suscripciones Recientes",
+    "user": "Usuario",
+    "plan": "Plan",
+    "status": "Estado",
+    "date": "Fecha",
+    "sessionId": "ID de Sesión"
+  }
+}
